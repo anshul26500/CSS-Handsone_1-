@@ -1,0 +1,44 @@
+ul li{
+    letter-spacing: 9px;
+}
+p{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+    color: brown;
+}
+.bgg{
+    background-color: yellow;
+}
+@media (max-width: 400px){
+    body{
+        display:flex;
+    }
+    h1{
+        display:flex;
+    }
+    h2{
+        display:flex;
+    }
+    ul li{
+        display:flex;
+    }
+    ol li{
+        display:flex;
+    }
+    p{
+        display:flex;
+    }
+    .bg{
+        display:flex;
+    }
+    .bgg{
+        display:flex;
+    }
+    a{
+        display:flex;
+    }
+}
